@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/grid1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/homeper"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/themeicon"
+            android:title="Themes" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/personalizeicon"
+            android:title="Personalize" />
+    </group>
+    <group
+        android:id="@+id/grid2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home1"
+            android:icon="@drawable/homeper"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_gallery1"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Themes" />
+        <item
+            android:id="@+id/nav_slideshow1"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_slideshow" />
+    </group>
+
+</menu>

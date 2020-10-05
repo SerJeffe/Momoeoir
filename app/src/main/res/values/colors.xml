@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="text_shadow">#7F000000</color>
+    <color name="darkshizzle">#ffb9b9</color>
+    <!--for pink theme -->
+    <color name="pink">#ffb9b9</color>
+    <color name="textpink">#ff6b6c</color>
+    <color name="pinkcardbg">#fdeae6</color>
+    <!--for dark theme -->
+    <color name="dark">#232320</color>
+    <color name="white">#BDBDBD</color>
+    <color name="darkcardbg">#27252C</color>
+
+
+
+</resources>

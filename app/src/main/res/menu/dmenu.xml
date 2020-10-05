@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/font1"
+        android:orderInCategory="100"
+        android:title="Aclonica"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/font2"
+        android:orderInCategory="100"
+        android:title="Allerta Strncil"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/font3"
+        android:orderInCategory="100"
+        android:title="Annie Use Your Telescope"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/del"
+        android:orderInCategory="100"
+        android:title="Ass"
+        android:icon="@drawable/deletetoo"
+        app:showAsAction="always"/>
+
+
+</menu>
